@@ -1,0 +1,16 @@
+---
+title: "life_exp"
+format: html
+---
+
+```{r}
+library(tidyverse)
+```
+akakaiakad 
+
+iaoiens
+
+```{r}
+library(gapminder)
+```
+
